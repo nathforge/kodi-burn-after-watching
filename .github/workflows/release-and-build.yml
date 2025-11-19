@@ -44,8 +44,12 @@ jobs:
         id: check_tag
         run: |
           LATEST_TAG=$(git describe --tags --abbrev=0 2>/dev/null || echo "")
+          echo "tag=${LATEST_TAG}" >> $GITHUB_OUTPUT
           if [ ! -z "$LATEST_TAG" ] && [[ "$LATEST_TAG" == v* ]]; then
             echo "found=true" >> $GITHUB_OUTPUT
+            # Extract version without 'v' prefix
+            VERSION="${LATEST_TAG#v}"
+            echo "version=${VERSION}" >> $GITHUB_OUTPUT
           fi
 
       - name: Set up Docker Buildx
@@ -67,11 +71,10 @@ jobs:
         with:
           images: ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}
           tags: |
-            type=semver,pattern={{version}}
-            type=semver,pattern={{major}}.{{minor}}
-            type=semver,pattern={{major}}
+            type=semver,pattern={{version}},value=${{ steps.check_tag.outputs.version }}
+            type=semver,pattern={{major}}.{{minor}},value=${{ steps.check_tag.outputs.version }}
+            type=semver,pattern={{major}},value=${{ steps.check_tag.outputs.version }}
             type=raw,value=latest
-          context: git
 
       - name: Build and push Docker image
         if: steps.check_tag.outputs.found == 'true'
