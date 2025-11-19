@@ -1,3 +1,11 @@
+## [1.11.1](https://github.com/nathforge/kodi-burn-after-watching/compare/v1.11.0...v1.11.1) (2025-11-19)
+
+
+### Bug Fixes
+
+* add git context back to metadata-action for semver parsing ([7f9c591](https://github.com/nathforge/kodi-burn-after-watching/commit/7f9c591240cae89d29b65faaa0f9141c4c1f2649))
+* test git context metadata ([401ab64](https://github.com/nathforge/kodi-burn-after-watching/commit/401ab64808e913e6875108099846d143dd4b5ed7))
+
 # [1.11.0](https://github.com/nathforge/kodi-burn-after-watching/compare/v1.10.0...v1.11.0) (2025-11-19)
 
 
