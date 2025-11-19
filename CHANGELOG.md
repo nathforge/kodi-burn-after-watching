@@ -1,3 +1,11 @@
+## [1.8.1](https://github.com/nathforge/kodi-burn-after-watching/compare/v1.8.0...v1.8.1) (2025-11-19)
+
+
+### Bug Fixes
+
+* another test deployment ([c259daf](https://github.com/nathforge/kodi-burn-after-watching/commit/c259daf63e08f5e380da1852ad026e3d074933f1))
+* remove [skip ci] from release commit to allow docker build to trigger ([2e2fd0b](https://github.com/nathforge/kodi-burn-after-watching/commit/2e2fd0b16f8898894b152a3657baecc2dc0afe8e))
+
 # [1.8.0](https://github.com/nathforge/kodi-burn-after-watching/compare/v1.7.0...v1.8.0) (2025-11-19)
 
 
