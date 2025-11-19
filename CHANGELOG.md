@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/nathforge/kodi-burn-after-watching/compare/v1.1.1...v1.1.2) (2025-11-19)
+
+
+### Bug Fixes
+
+* properly condition semver and sha tags on ref type ([40f74b8](https://github.com/nathforge/kodi-burn-after-watching/commit/40f74b85463d2cc3a6e3bf4fdc04cb9cbfc3a565))
+
 ## [1.1.1](https://github.com/nathforge/kodi-burn-after-watching/compare/v1.1.0...v1.1.1) (2025-11-19)
 
 
