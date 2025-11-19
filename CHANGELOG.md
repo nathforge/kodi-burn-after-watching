@@ -1,3 +1,15 @@
+# [1.11.0](https://github.com/nathforge/kodi-burn-after-watching/compare/v1.10.0...v1.11.0) (2025-11-19)
+
+
+### Bug Fixes
+
+* detect new tags by checking git tags instead of outputs ([9028a3f](https://github.com/nathforge/kodi-burn-after-watching/commit/9028a3f79646e73bae1f035c86eb82b0b8604434))
+
+
+### Features
+
+* test fixed unified workflow ([14cd3cb](https://github.com/nathforge/kodi-burn-after-watching/commit/14cd3cb230cbf26c72f49eecf520c600eaf8ca6a))
+
 # [1.10.0](https://github.com/nathforge/kodi-burn-after-watching/compare/v1.9.0...v1.10.0) (2025-11-19)
 
 
