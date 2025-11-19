@@ -1,3 +1,11 @@
+# [1.9.0](https://github.com/nathforge/kodi-burn-after-watching/compare/v1.8.1...v1.9.0) (2025-11-19)
+
+
+### Features
+
+* test release workflow trigger ([d4ba0c2](https://github.com/nathforge/kodi-burn-after-watching/commit/d4ba0c2e88eb24cc1aa820c0865cf142d15e7575))
+* trigger docker build on release events ([d8e96ac](https://github.com/nathforge/kodi-burn-after-watching/commit/d8e96ac7d1a416cee6f8980acdae8413635e82e2))
+
 ## [1.8.1](https://github.com/nathforge/kodi-burn-after-watching/compare/v1.8.0...v1.8.1) (2025-11-19)
 
 
