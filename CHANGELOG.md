@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/nathforge/kodi-burn-after-watching/compare/v1.0.2...v1.1.0) (2025-11-19)
+
+
+### Features
+
+* trigger workflow on version tags ([8138de5](https://github.com/nathforge/kodi-burn-after-watching/commit/8138de5bbe61ebafb240797ed498da048349446d))
+
 ## [1.0.2](https://github.com/nathforge/kodi-burn-after-watching/compare/v1.0.1...v1.0.2) (2025-11-19)
 
 
