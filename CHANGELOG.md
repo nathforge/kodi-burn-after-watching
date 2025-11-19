@@ -1,3 +1,10 @@
+## [1.1.4](https://github.com/nathforge/kodi-burn-after-watching/compare/v1.1.3...v1.1.4) (2025-11-19)
+
+
+### Bug Fixes
+
+* remove sha tag to avoid invalid tag names ([384835b](https://github.com/nathforge/kodi-burn-after-watching/commit/384835b84115b344519caec883158af6baf202f3))
+
 ## [1.1.3](https://github.com/nathforge/kodi-burn-after-watching/compare/v1.1.2...v1.1.3) (2025-11-19)
 
 
