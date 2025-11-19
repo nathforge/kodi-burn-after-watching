@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/nathforge/kodi-burn-after-watching/compare/v1.2.0...v1.3.0) (2025-11-19)
+
+
+### Features
+
+* test feature for version bump ([b7021f4](https://github.com/nathforge/kodi-burn-after-watching/commit/b7021f470b57d166f0d4046f6ef137cd5fa0c232))
+
 # [1.2.0](https://github.com/nathforge/kodi-burn-after-watching/compare/v1.1.4...v1.2.0) (2025-11-19)
 
 
