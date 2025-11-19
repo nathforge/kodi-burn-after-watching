@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/nathforge/kodi-burn-after-watching/compare/v1.1.0...v1.1.1) (2025-11-19)
+
+
+### Bug Fixes
+
+* disable sha tag generation for non-branch events ([1ba54bf](https://github.com/nathforge/kodi-burn-after-watching/commit/1ba54bf1b7338137181d1ddd22493b830b525976))
+
 # [1.1.0](https://github.com/nathforge/kodi-burn-after-watching/compare/v1.0.2...v1.1.0) (2025-11-19)
 
 
