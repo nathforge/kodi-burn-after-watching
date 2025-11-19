@@ -1,0 +1,10 @@
+[env]
+KODI_JSONRPC = "http://localhost:8080/jsonrpc"
+TAG = "burn-after-watching"
+# Optional log level: debug, info, warn, or error (default: error)
+# LOG_LEVEL = "debug"
+
+[tools]
+node = "24"
+npm = "latest"
+pnpm = "latest"

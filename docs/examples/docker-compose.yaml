@@ -1,0 +1,12 @@
+services:
+  kodi-burn-after-watching:
+    image: kodi-burn-after-watching
+    container_name: kodi-burn-after-watching
+    command: [loop, '--delay', '5m']
+    extra_hosts:
+      - kodi:172.18.0.1
+    environment:
+      - KODI_JSONRPC=http://kodi:8080/jsonrpc
+      - TAG=burn-after-watching
+      - LOG_LEVEL=info
+    restart: unless-stopped
