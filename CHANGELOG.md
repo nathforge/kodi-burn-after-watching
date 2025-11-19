@@ -1,3 +1,10 @@
+## [1.1.3](https://github.com/nathforge/kodi-burn-after-watching/compare/v1.1.2...v1.1.3) (2025-11-19)
+
+
+### Bug Fixes
+
+* restrict sha tag to branch events only ([4430910](https://github.com/nathforge/kodi-burn-after-watching/commit/4430910323e45fe48b3e5d20687bf029524d4ab7))
+
 ## [1.1.2](https://github.com/nathforge/kodi-burn-after-watching/compare/v1.1.1...v1.1.2) (2025-11-19)
 
 
