@@ -1,3 +1,12 @@
+# [1.7.0](https://github.com/nathforge/kodi-burn-after-watching/compare/v1.6.0...v1.7.0) (2025-11-19)
+
+
+### Features
+
+* testing deployments ([cc525d5](https://github.com/nathforge/kodi-burn-after-watching/commit/cc525d57fccd70ccfe73851ce1e3d5e17392986b))
+* testing deployments ([a433cff](https://github.com/nathforge/kodi-burn-after-watching/commit/a433cffee233ea5b66fbf1a3a3ec1b83727d888e))
+* testing deployments ([dba2fc5](https://github.com/nathforge/kodi-burn-after-watching/commit/dba2fc5cad4a9cfa5095be9a7ee9468dfbc71187))
+
 # [1.6.0](https://github.com/nathforge/kodi-burn-after-watching/compare/v1.5.0...v1.6.0) (2025-11-19)
 
 
