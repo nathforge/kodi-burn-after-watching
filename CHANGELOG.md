@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/nathforge/kodi-burn-after-watching/compare/v1.1.4...v1.2.0) (2025-11-19)
+
+
+### Features
+
+* bump for tag test ([ddb95d7](https://github.com/nathforge/kodi-burn-after-watching/commit/ddb95d7c7da71ddc13dd301996db78e84229a061))
+
 ## [1.1.4](https://github.com/nathforge/kodi-burn-after-watching/compare/v1.1.3...v1.1.4) (2025-11-19)
 
 
