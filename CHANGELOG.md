@@ -1,3 +1,10 @@
+# [1.10.0](https://github.com/nathforge/kodi-burn-after-watching/compare/v1.9.0...v1.10.0) (2025-11-19)
+
+
+### Features
+
+* unified workflow test ([66cf617](https://github.com/nathforge/kodi-burn-after-watching/commit/66cf617affc2c42af2c309502ff4bb95c1d4bac0))
+
 # [1.9.0](https://github.com/nathforge/kodi-burn-after-watching/compare/v1.8.1...v1.9.0) (2025-11-19)
 
 
