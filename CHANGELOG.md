@@ -1,3 +1,10 @@
+## [1.11.2](https://github.com/nathforge/kodi-burn-after-watching/compare/v1.11.1...v1.11.2) (2025-11-19)
+
+
+### Bug Fixes
+
+* explicitly pass version to metadata-action instead of using git context ([a827668](https://github.com/nathforge/kodi-burn-after-watching/commit/a827668fa9f53acbbdee68bc2f654078e631a923))
+
 ## [1.11.1](https://github.com/nathforge/kodi-burn-after-watching/compare/v1.11.0...v1.11.1) (2025-11-19)
 
 
