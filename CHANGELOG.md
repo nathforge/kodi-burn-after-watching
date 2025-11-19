@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/nathforge/kodi-burn-after-watching/compare/v1.0.1...v1.0.2) (2025-11-19)
+
+
+### Bug Fixes
+
+* fetch tags after semantic-release for proper docker metadata ([38a7117](https://github.com/nathforge/kodi-burn-after-watching/commit/38a71175515045e8a64c32631091c733b83583c7))
+
 ## [1.0.1](https://github.com/nathforge/kodi-burn-after-watching/compare/v1.0.0...v1.0.1) (2025-11-19)
 
 
